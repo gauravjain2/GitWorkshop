@@ -76,3 +76,5 @@ Git introduction workshop held to introduce students to Open Source
 
 ### Gaurav Jain
 - CSE 1st Year
+### Aakash
+- CSE 2nd Year
